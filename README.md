@@ -4,9 +4,9 @@
 
 ## 这套 Kit 解决什么
 
-- **统一方法**：从需求澄清到可用性验证，用固定章节（Purpose → Concepts → Application → Pitfalls → References）降低「随口一句 prompt」带来的漂移。
+- **统一方法**：从需求澄清到可用性验证，统一遵循固定章节（Purpose → Concepts → Application → Pitfalls → References）。
 - **可对齐产研**：提供产出模板（可修改），与 PM 侧文档（如设计简报、竞品结论）口径一致，便于评审与 handoff。
-- **可演进**：单技能独立成目录，按需增删，不需要的可以不装。
+- **灵活使用**：单个技能独立成目录，按需安装。
 
 ## 当前技能一览
 
