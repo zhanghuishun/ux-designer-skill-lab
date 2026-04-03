@@ -94,7 +94,7 @@ This skill helps UX Designers and Product Managers:
 Before creating any wireframe, ALWAYS confirm the platform with the user. Do NOT assume.
 
 Ask the user:
-- **"Is this for web, mobile (iOS/Android), or desktop?"**
+- **"Is this for web, native mobile, or desktop?"**
 - **"Is this for frontend (user-facing) or backend (admin/management)?"**
 
 If unclear, request clarification before proceeding.
