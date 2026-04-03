@@ -10,6 +10,10 @@
 
 ## 当前技能一览
 
+以下技能均在对应目录的 `SKILL.md` 中查看完整流程、模板与引用；[`OOUX/OOUX-template.md`](OOUX/OOUX-template.md) 等为配套模板时可一并打开。
+
+### 原创技能
+
 | 技能 | 说明 |
 |------|------|
 | [`design-brief/`](design-brief/) | 非结构化 PM 输入 → 结构化设计简报 |
@@ -18,16 +22,28 @@
 | [`OOUX/`](OOUX/) | OOUX / ORCA：对象、关系、操作、属性 |
 | [`ascii-prototype/`](ascii-prototype/) | ASCII 线框快速表达版式与结构 |
 
-在对应目录中打开 `SKILL.md` 即可查看完整说明与模板。
+### 来自 [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
 
-## 未来可能扩展的技能（示意）
+| 技能 | 类型 | 说明 |
+|------|------|------|
+| [`customer-journey-map/`](customer-journey-map/) | component | 按阶段 / 触点 / 行为 / 情绪 / 指标等输出完整客户旅程图，用于诊断体验与对齐团队 |
+| [`customer-journey-mapping-workshop/`](customer-journey-mapping-workshop/) | interactive | 通过递进问题引导旅程图工作坊（人物、场景、阶段、痛点与机会） |
+| [`jobs-to-be-done/`](jobs-to-be-done/) | component | JTBD：功能 / 社交 / 情感「工作」、痛点与收益，结构化澄清动机 |
+| [`lean-ux-canvas/`](lean-ux-canvas/) | interactive | Jeff Gothelf Lean UX Canvas v2：业务问题、假设与下一跳学习 |
+| [`proto-persona/`](proto-persona/) | component | 验证前的「原型画像」：现有线索与假设下的可操作用户轮廓 |
+| [`storyboard/`](storyboard/) | component | 六格故事板：从问题到方案的叙事弧线，便于评审和共识 |
+| [`user-story/`](user-story/) | component | Mike Cohn 式用户故事 + Gherkin 验收标准，便于与研发对齐 |
+| [`user-story-mapping/`](user-story-mapping/) | component | 用户故事地图：活动 → 步骤 → 任务与发布切片，串联旅程与 backlog |
+
+> 上述拷贝技能的著作权原项目以 [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills/blob/main/LICENSE) 许可证为准；本 README 仅作索引与使用场景说明。
+
+## 未来可能扩展的技能
 
 以下方向可按优先级逐步补齐：
 
 - 启发式评估 / UX 走查（Heuristic evaluation）
 - 设计评审 facilitation 与纪要结构
 - 无障碍（WCAG）自查清单与缺陷分级
-- 用户旅程图 / 服务蓝图 workshop
 - 设计系统：token 与组件提取（contribution 流程）
 - 利益相关方访谈 / 设计工作坊议程模板
 
