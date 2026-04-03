@@ -1,18 +1,18 @@
 # UX Designer Skill Lab
 
-面向 **UX / 体验设计师** 的 Agent **Skill Kit**：把可重复的设计与研究流程写成结构化技能，方便在 Cursor、Claude Code 等环境里由 AI 按同一套方法执行与交付。
+面向 **体验设计师** 的 Agent **Skill Kit**：把可重复的设计与研究流程写成结构化技能，方便在 Cursor、Claude Code 等环境里由 AI 按同一套方法执行与交付。
 
 ## 这套 Kit 解决什么
 
-- **统一方法**：从需求澄清到可用性验证，统一遵循固定章节（Purpose → Concepts → Application → Pitfalls → References）。
-- **可对齐产研**：提供产出模板（可修改），与 PM 侧文档（如设计简报、竞品结论）口径一致，便于评审与 handoff。
-- **灵活使用**：单个技能独立成目录，按需安装。
+体验设计里常见的是**隐性经验**：依赖个人习惯、口头对齐，和 AI 协作时又容易变成「一句话需求 → 泛泛而谈」。这套 Kit 针对的是下面几类**具体问题**：
+
+- **流程容易跳步、产出不稳定**：竞品从哪几维度看、可用性测发散还是验证——没有清单时，人和模型都会漏项。每个 Skill 把成熟做法拆成固定流程，让执行路径可重复、可对照。
+- **和产研、业务说不拢**：需求是散的、结论在脑子里，评审和交接缺少共同载体。Skill 绑定可改的产出模板（简报、旅程、故事等），把讨论锚定在文档上，而不是各说各话。
+- **工具灵活**：不同环节要用不同方法，按目录选用单个 Skill，只装当前阶段需要的部分即可。
 
 ## 当前技能一览
 
 以下技能均在对应目录的 `SKILL.md` 中查看完整流程、模板与引用；[`OOUX/OOUX-template.md`](OOUX/OOUX-template.md) 等为配套模板时可一并打开。
-
-**来源**列：`原创` 为本仓库编写；`[PM-Skills]` 表示自 [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) 同步拷贝（类型见各技能 frontmatter 的 `type`）。
 
 ### 1. 需求分析
 
@@ -55,6 +55,7 @@
 |------|------|------|
 | [`usability-test/`](usability-test/) | 原创 | 可用性测试类型判断、执行与结果分析 |
 
+**来源**列：`原创` 为本仓库编写；`[PM-Skills]` 表示自 [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) 同步拷贝（类型见各技能 frontmatter 的 `type`）。
 > 自 [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) 拷贝的技能，著作权以原仓库 [LICENSE](https://github.com/deanpeters/Product-Manager-Skills/blob/main/LICENSE) 为准；本 README 仅作索引与使用场景说明。
 
 ## 未来可能扩展的技能
